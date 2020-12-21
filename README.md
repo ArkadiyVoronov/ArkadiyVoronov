@@ -48,11 +48,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [ArkadiyVoronov/ArkadiyVoronov](https://github.com/ArkadiyVoronov/ArkadiyVoronov)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [ArkadiyVoronov/ArkadiyVoronov](https://github.com/ArkadiyVoronov/ArkadiyVoronov)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [ArkadiyVoronov/ArkadiyVoronov](https://github.com/ArkadiyVoronov/ArkadiyVoronov)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [ArkadiyVoronov/ArkadiyVoronov](https://github.com/ArkadiyVoronov/ArkadiyVoronov)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [ArkadiyVoronov/ArkadiyVoronov](https://github.com/ArkadiyVoronov/ArkadiyVoronov)
+
 <!--END_SECTION:activity-->
 
 </details>
