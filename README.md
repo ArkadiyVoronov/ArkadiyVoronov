@@ -18,6 +18,14 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<style>
+  .strava-badge- { display: inline-block; height: 48px; }
+  .strava-badge- img { visibility: hidden; height: 48px; }
+  .strava-badge-:hover { background-position: 0 -63px; }
+  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
+</style>
+<a href="http://strava.com/athletes/42134047/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
+
 <br />
 
 ### Languages and Tools:
