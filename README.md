@@ -50,7 +50,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://prapar.pythonanywhere.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
