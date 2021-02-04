@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently contributing to the translation of the book for the testing community 🤣
 - 👯 I’m looking to collaborate with other engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to bike, hike and DIY
 
 ### Connect with me:
