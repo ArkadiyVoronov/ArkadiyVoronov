@@ -13,10 +13,9 @@
 ### Connect with me:
 
 [<img align="left" alt="https://prapar.pythonanywhere.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ArkadiyVoronov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="ArkadiyVoronov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ArkadiyVoronov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ArkadiyVoronov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -51,13 +50,11 @@
 </details>
 
 [website]: https://prapar.pythonanywhere.com
-[course]: http://vsCodeHero.com
+
 [twitter]: https://twitter.com/ArkadiyVoronov
-[youtube]: https://youtube.com/ArkadiyVoronov
-[instagram]: https://instagram.com/ArkadiyVoronov
+
+
 [linkedin]: https://linkedin.com/in/ArkadiyVoronov
-[webdevplaylist]: https://www.youtube.com/ArkadiyVoronov
-[jsplaylist]: https://www.youtube.com/ArkadiyVoronov
-[cssplaylist]: https://www.youtube.com/
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ArkadiyVoronov&color=green" alt="ArkadiyVoronov" /></p>
