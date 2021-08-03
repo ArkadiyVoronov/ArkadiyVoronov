@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 
-## I'm a Husband, Father, Support Engineer and Developer
+## I'm a QA Engineer
 
 - 🌱 I’m currently contributing to the translation of the book for the testing community 🤣
 - 👯 I’m looking to collaborate with other engineers
