@@ -21,18 +21,21 @@
 <br />
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hardware-JetsonTX2-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hardware-Xavier-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime3-informational?style=flat&logo=sublimetext&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laptop-Nitro5-informational?style=for-the-badge&logo=acer&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows10-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laptop-IdeaPad340-informational?style=for-the-badge&logo=lenovo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hardware-JetsonTX2-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hardware-Xavier-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badget&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime3-informational?style=for-the-badge&logo=sublimetext&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=2bbc8a)
 
 
 <br />
