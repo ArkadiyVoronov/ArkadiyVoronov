@@ -12,11 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://prapar.pythonanywhere.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="ArkadiyVoronov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ArkadiyVoronov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/arkadiyvoronov/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13712259/jivthesh-m) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:vor.arkadiy@gmail.com) 
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <br />
 
