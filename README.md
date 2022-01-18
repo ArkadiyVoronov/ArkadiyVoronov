@@ -22,6 +22,8 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hardware-JetsonTX2-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hardware-Xavier-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Sublime3-informational?style=flat&logo=sublimetext&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
