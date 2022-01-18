@@ -21,6 +21,12 @@
 <br />
 
 ## 🔧 Technologies & Tools
+
+<details>
+  <summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
+</summary>
+  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laptop-Nitro5-informational?style=plastic&logo=acer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=plastic&logo=windows&logoColor=white&color=2bbc8a)
@@ -37,6 +43,7 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-GitLab-informational?style=plastic&logo=gitlab&logoColor=white&color=2bbc8a)
 
+</details>
 
 <br />
 
