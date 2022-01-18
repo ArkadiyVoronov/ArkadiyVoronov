@@ -1,7 +1,7 @@
 ### Hi there, I'm Arkadiy - aka [ArkadiyVoronov][website] 👋
 
-[![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
+[![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=plastic&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 
 ## I'm a QA embedded Engineer
 
