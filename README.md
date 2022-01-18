@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/Laptop-IdeaPad340-informational?style=for-the-badge&logo=lenovo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hardware-JetsonTX2-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hardware-Xavier-informational?style=for-the-badge&logo=nvidia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badget&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Sublime3-informational?style=for-the-badge&logo=sublimetext&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
