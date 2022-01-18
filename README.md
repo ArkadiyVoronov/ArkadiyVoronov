@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 
-## I'm a QA Engineer
+## I'm a QA embedded Engineer
 
 - 🌱 I’m currently contributing to the translation of the book for the testing community 🤣
 - 👯 I’m looking to collaborate with other engineers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to bike, hike and DIY
+- 🥅 2022 Goals: Learn techniques for testing microcontrollers
+- ⚡ Fun fact: I love to bike, hike, swim and DIY
 
 ### Connect with me:
 
@@ -33,21 +33,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ArkadiyVoronov's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ArkadiyVoronov&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://prapar.pythonanywhere.com
 
