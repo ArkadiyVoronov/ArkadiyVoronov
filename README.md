@@ -23,8 +23,7 @@
 ## 🔧 Technologies & Tools
 
 <details>
-  <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
+  <summary>"Click to expand"   
 </summary>
   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
