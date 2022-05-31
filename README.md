@@ -13,12 +13,10 @@
 
 ### Connect with me:
 
-| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/arkadiyvoronov/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/voronov_ao) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10703443/arkadiy-voronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:vor.arkadiy@gmail.com) | [<img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/blob/master/Reddit-Vertical-White-Logo.wine.png" alt="Reddit logo" height="32">](https://www.reddit.com/user/Affectionate_Gur_771) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/gitlab.svg" alt="Gitlab logo" height="32">](https://gitlab.com/vor.arkadiy)
-
-#TODO end with logo
+| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/arkadiyvoronov/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/voronov_ao) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10703443/arkadiy-voronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:vor.arkadiy@gmail.com) | [<img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/blob/master/logo/reddit-social-logo-character-svgrepo-com.svg" alt="Reddit logo" height="30">](https://www.reddit.com/user/Affectionate_Gur_771) | [<img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/blob/master/logo/gitlab-svgrepo-com.svg" alt="Gitlab logo" height="32">](https://gitlab.com/vor.arkadiy)
 
 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
 
 <br />
 
