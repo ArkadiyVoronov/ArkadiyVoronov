@@ -2,8 +2,16 @@
 
 [![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=plastic&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
-
-## I'm a QA embedded Engineer
+```
+   ____                             _              _     _          _ 
+  / __ \     /\                    | |            | |   | |        | |
+ | |  | |   /  \      ___ _ __ ___ | |__   ___  __| | __| | ___  __| |
+ | |  | |  / /\ \    / _ \ '_ ` _ \| '_ \ / _ \/ _` |/ _` |/ _ \/ _` |
+ | |__| | / ____ \  |  __/ | | | | | |_) |  __/ (_| | (_| |  __/ (_| |
+  \___\_\/_/    \_\  \___|_| |_| |_|_.__/ \___|\__,_|\__,_|\___|\__,_|
+                                                                                                                                            
+```
+                                                        
 
 - 🌱 I’m currently contributing to the translation of the [book](https://uraltester.ru/2020/10/16/%d1%81%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d0%bc-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%b5%d1%80%d0%b5%d0%b2%d0%be%d0%b4/) for the testing community 🤣
 - 👯 I’m looking to collaborate with other engineers
