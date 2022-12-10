@@ -12,8 +12,9 @@
 ```
                                                         
 
-- 🌱 I’m currently contributing to the translation of the [book](https://uraltester.ru/2020/10/16/%d1%81%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d0%bc-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%b5%d1%80%d0%b5%d0%b2%d0%be%d0%b4/) for the testing community 🤣
-- 👯 I’m looking to collaborate with other engineers
+- 🌱 I’m currently contributing to the translation of the [book](https://uraltester.ru/2020/10/16/%d1%81%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d0%bc-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%b5%d1%80%d0%b5%d0%b2%d0%be%d0%b4/) for the testing community
+- 👯 I’m looking to collaborate with other engineer, to build convenient and smart greenhouses
+- 🫶 Mentor for testers, frontend and mobile developers
 - 🥅 2022 Goals: Learn techniques for testing microcontrollers and self-hosting
 - 🏕️ Contributing to the following communities: [UTC](https://uraltester.ru/), [CSCM](https://github.com/CyberSecurityClubMoscow)
 - ⚡ Fun fact: I love to bike, hike, swim and DIY
