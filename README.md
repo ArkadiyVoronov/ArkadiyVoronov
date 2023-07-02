@@ -1,6 +1,3 @@
-### Hi there, I'm Arkadiy - aka [ArkadiyVoronov][website] 👋
-
-
 ## About Me
 Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working on various projects and I'm constantly striving to improve my skills.
 
@@ -24,25 +21,18 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 - ⚡ Fun fact: I enjoy biking, hiking, swimming, and engaging in DIY projects.
 
 ## Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arkadiyvoronov/)
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/arkadiyvoronov)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/voronov_ao)
-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/10703443/arkadiy-voronov)
-- [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@arkadiyvoronov)
-- [![Email](https://img.shields.io/badge/Email-vor.arkadiy%40gmail.com-red)](mailto:vor.arkadiy@gmail.com)
-- [![Reddit](https://img.shields.io/badge/Reddit-Profile-red?logo=reddit)](https://www.reddit.com/user/Affectionate_Gur_771)
-- [![GitLab](https://img.shields.io/badge/GitLab-Follow-orange?logo=gitlab)](https://gitlab.com/vor.arkadiy)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arkadiyvoronov/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/arkadiyvoronov)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/voronov_ao)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/10703443/arkadiy-voronov)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@arkadiyvoronov)
+[![Email](https://img.shields.io/badge/Email-vor.arkadiy%40gmail.com-red)](mailto:vor.arkadiy@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-Profile-red?logo=reddit)](https://www.reddit.com/user/Affectionate_Gur_771)
+[![GitLab](https://img.shields.io/badge/GitLab-Follow-orange?logo=gitlab)](https://gitlab.com/vor.arkadiy)
 
 <br />
 
 ## 🔧 Technologies & Tools
-
-<details>
-  <summary>"Click to expand"   
-</summary>
   
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
 ![Acer Nitro 5](https://img.shields.io/badge/Acer%20Nitro%205-Laptop-lightgrey?logo=acer)
@@ -59,20 +49,36 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 ![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman)
 ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?logo=gitlab)
 
-</details>
-
 <br />
+
+## QA portfolio
+
+1. QA Full Stack:
+🧩🧪🔬
+
+2. Code Testing:
+💻🧪🔍
+
+3. Test Automation:
+🤖🧪🔧
+
+4. Web Development:
+🌐💻🔨
+
+5. Database Testing:
+🗃️🧪🔍
+
+6. Mobile Testing:
+📱🧪🔍
 
 [website]: https://prapar.pythonanywhere.com
 
 [twitter]: https://twitter.com/ArkadiyVoronov
-
 
 [linkedin]: https://linkedin.com/in/ArkadiyVoronov
 
 [reddit]: https://www.reddit.com/user/Affectionate_Gur_771
 
 [gitlab]: https://gitlab.com/vor.arkadiy
-
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ArkadiyVoronov&color=green" alt="ArkadiyVoronov" /></p>
