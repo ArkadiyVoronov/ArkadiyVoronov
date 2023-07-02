@@ -40,7 +40,7 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)
 ![Lenovo IdeaPad 340](https://img.shields.io/badge/Lenovo%20IdeaPad%20340-Laptop-lightgrey?logo=lenovo)
-![Lenovo ThinkPad E560](https://img.shields.io/badge/Lenovo%20ThinkPad%20E460-Laptop-lightgrey?logo=lenovo)
+![Lenovo ThinkPad E560](https://img.shields.io/badge/Lenovo%20ThinkPad%20E560-Laptop-lightgrey?logo=lenovo)
 ![Jetson TX2](https://img.shields.io/badge/Jetson%20TX2-Hardware-informational?logo=nvidia)
 ![Xavier AGX](https://img.shields.io/badge/Xavier%20AGX-Hardware-informational?logo=nvidia)
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-blue?logo=pycharm)
