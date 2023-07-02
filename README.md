@@ -35,8 +35,9 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 ## 🔧 Technologies & Tools
   
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
-![Acer Nitro 5](https://img.shields.io/badge/Acer%20Nitro%205-Laptop-lightgrey?logo=acer)
+![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)
 ![Lenovo IdeaPad 340](https://img.shields.io/badge/Lenovo%20IdeaPad%20340-Laptop-lightgrey?logo=lenovo)
+![Lenovo ThinkPad E560](https://img.shields.io/badge/Lenovo%20ThinkPad%20E460-Laptop-lightgrey?logo=lenovo)
 ![Jetson TX2](https://img.shields.io/badge/Jetson%20TX2-Hardware-informational?logo=nvidia)
 ![Xavier AGX](https://img.shields.io/badge/Xavier%20AGX-Hardware-informational?logo=nvidia)
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-blue?logo=pycharm)
@@ -48,6 +49,16 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 ![Docker](https://img.shields.io/badge/Docker-Tool-blue?logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman)
 ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?logo=gitlab)
+![Swagger](https://img.shields.io/badge/Swagger-Tool-brightgreen?logo=swagger)
+![ELK](https://img.shields.io/badge/ELK-Tool-blue?logo=elasticsearch)
+![Sentry](https://img.shields.io/badge/Sentry-Tool-red?logo=sentry)
+![Mitm Proxy](https://img.shields.io/badge/Mitm%20Proxy-Tool-black?logo=mitmproxy)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-IDE-green?logo=android-studio)
+![Xcode](https://img.shields.io/badge/Xcode-IDE-blue?logo=xcode)
+![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visual-studio-code)
+![Hackintosh](https://img.shields.io/badge/Hackintosh-OS-lightgrey?logo=apple)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Tool-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Tool-blue?logo=kubernetes)
 
 <br />
 
