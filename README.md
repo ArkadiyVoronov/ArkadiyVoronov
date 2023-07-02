@@ -85,6 +85,16 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 6. Mobile Testing:
 📱🧪🔍
 
+[![Test Coverage](https://img.shields.io/badge/Test%20Coverage-80%25-green)](#)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](#)
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-blue)](#)
+[![Security Scan](https://img.shields.io/badge/Security%20Scan-Passed-brightgreen)](#)
+[![Performance Test](https://img.shields.io/badge/Performance%20Test-Passed-brightgreen)](#)
+[![Accessibility](https://img.shields.io/badge/Accessibility-Passed-brightgreen)](#)
+[![Integration Tests](https://img.shields.io/badge/Integration%20Tests-Passing-brightgreen)](#)
+[![Unit Tests](https://img.shields.io/badge/Unit%20Tests-Passing-brightgreen)](#)
+[![Regression Tests](https://img.shields.io/badge/Regression%20Tests-Passing-brightgreen)](#)
+
 [website]: https://prapar.pythonanywhere.com
 
 [twitter]: https://twitter.com/ArkadiyVoronov
