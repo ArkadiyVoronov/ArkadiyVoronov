@@ -1,5 +1,9 @@
 ## About Me
-Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working on various projects and I'm constantly striving to improve my skills.
+> Hello there!
+> 
+> I'm Arkadiy, a Full Stack QA Specialist.
+> 
+> I have experience working on various projects and I'm constantly striving to improve my skills.
 
 [![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=plastic&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
@@ -82,6 +86,40 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 
 6. Mobile Testing:
 📱🧪🔍
+
+## QA Journal
+
+- [Link to QA Journal](link_to_qa_journal)
+
+## Test Plan Template
+
+- [Link to Test Plan Template](link_to_test_plan_template)
+
+## Test Case Template
+
+- [Link to Test Case Template](link_to_test_case_template)
+
+## Test Scenarios
+
+### Functional / Features
+
+- [Test Scenarios for Functional / Features](link_to_functional_test_scenarios)
+
+### API
+
+- [Test Scenarios for API](link_to_api_test_scenarios)
+
+### Database Testing
+
+- [Test Scenarios for Database Testing](link_to_database_test_scenarios)
+
+## Ticket Template
+
+- [Link to Ticket Template](link_to_ticket_template)
+
+## Risk Matrix Template
+
+- [Link to Risk Matrix Template](link_to_risk_matrix_template)
 
 [![Run Tests](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-80%25-green)](#)
