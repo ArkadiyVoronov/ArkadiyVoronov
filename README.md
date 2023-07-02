@@ -33,7 +33,6 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 [![Telegram](https://img.shields.io/badge/Telegram-%40arkadiyvoronov-blue?logo=telegram)](https://t.me/arkadiyvoronov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 
-<br />
 
 ## 🔧 Technologies & Tools
   
@@ -63,7 +62,6 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Tool-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Tool-blue?logo=kubernetes)
 
-<br />
 
 ## QA portfolio
 
@@ -85,6 +83,7 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 6. Mobile Testing:
 📱🧪🔍
 
+
 [![Run Tests](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml/badge.svg?branch=master&event=release)](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-80%25-green)](#)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](#)
@@ -95,6 +94,7 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 [![Integration Tests](https://img.shields.io/badge/Integration%20Tests-Passing-brightgreen)](#)
 [![Unit Tests](https://img.shields.io/badge/Unit%20Tests-Passing-brightgreen)](#)
 [![Regression Tests](https://img.shields.io/badge/Regression%20Tests-Passing-brightgreen)](#)
+
 
 [website]: https://prapar.pythonanywhere.com
 
