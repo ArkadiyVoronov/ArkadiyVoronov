@@ -29,7 +29,7 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/voronov_ao)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/10703443/arkadiy-voronov)
 - [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@arkadiyvoronov)
-- Email: vor.arkadiy@gmail.com
+- [![Email](https://img.shields.io/badge/Email-vor.arkadiy%40gmail.com-red)](mailto:vor.arkadiy@gmail.com)
 - [![Reddit](https://img.shields.io/badge/Reddit-Profile-red?logo=reddit)](https://www.reddit.com/user/Affectionate_Gur_771)
 - [![GitLab](https://img.shields.io/badge/GitLab-Follow-orange?logo=gitlab)](https://gitlab.com/vor.arkadiy)
 
