@@ -1,5 +1,9 @@
 ### Hi there, I'm Arkadiy - aka [ArkadiyVoronov][website] 👋
 
+
+## About Me
+Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working on various projects and I'm constantly striving to improve my skills.
+
 [![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=plastic&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 ```
@@ -19,9 +23,15 @@
 - 🏕️ I contribute to the UTC and CSCM communities: [UTC](https://uraltester.ru/), [CSCM](https://github.com/CyberSecurityClubMoscow)
 - ⚡ Fun fact: I enjoy biking, hiking, swimming, and engaging in DIY projects.
 
-### Connect with me:
-
-| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/arkadiyvoronov/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/voronov_ao) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10703443/arkadiy-voronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@arkadiyvoronov) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:vor.arkadiy@gmail.com) | [<img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/blob/master/logo/reddit-social-logo-character-svgrepo-com.svg" alt="Reddit logo" height="30">](https://www.reddit.com/user/Affectionate_Gur_771) | [<img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/blob/master/logo/gitlab-svgrepo-com.svg" alt="Gitlab logo" height="32">](https://gitlab.com/vor.arkadiy)
+## Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arkadiyvoronov/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/arkadiyvoronov)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/voronov_ao)
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/10703443/arkadiy-voronov)
+- [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@arkadiyvoronov)
+- Email: vor.arkadiy@gmail.com
+- [![Reddit](https://img.shields.io/badge/Reddit-Profile-red?logo=reddit)](https://www.reddit.com/user/Affectionate_Gur_771)
+- [![GitLab](https://img.shields.io/badge/GitLab-Follow-orange?logo=gitlab)](https://gitlab.com/vor.arkadiy)
 
 
 
@@ -34,30 +44,24 @@
   <summary>"Click to expand"   
 </summary>
   
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Laptop-Nitro5-informational?style=plastic&logo=acer&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows10-informational?style=plastic&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Laptop-IdeaPad340-informational?style=plastic&logo=lenovo&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hardware-Jetson_TX2-informational?style=plastic&logo=nvidia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hardware-Xavier_AGX-informational?style=plastic&logo=nvidia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=plastic&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TextEditor-Sublime3-informational?style=plastice&logo=sublimetext&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=postman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-GitLab-informational?style=plastic&logo=gitlab&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
+![Acer Nitro 5](https://img.shields.io/badge/Acer%20Nitro%205-Laptop-lightgrey?logo=acer)
+![Lenovo IdeaPad 340](https://img.shields.io/badge/Lenovo%20IdeaPad%20340-Laptop-lightgrey?logo=lenovo)
+![Jetson TX2](https://img.shields.io/badge/Jetson%20TX2-Hardware-informational?logo=nvidia)
+![Xavier AGX](https://img.shields.io/badge/Xavier%20AGX-Hardware-informational?logo=nvidia)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-blue?logo=pycharm)
+![Sublime Text 3](https://img.shields.io/badge/Sublime%20Text%203-Text%20Editor-orange?logo=sublime-text)
+![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)
+![Bash](https://img.shields.io/badge/Bash-Language-black?logo=gnu-bash)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-Tool-blue?logo=docker)
+![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?logo=gitlab)
 
 </details>
 
 <br />
-
-
----
-
-
 
 [website]: https://prapar.pythonanywhere.com
 
@@ -72,5 +76,3 @@
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ArkadiyVoronov&color=green" alt="ArkadiyVoronov" /></p>
-
-
