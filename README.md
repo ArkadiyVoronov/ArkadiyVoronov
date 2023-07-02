@@ -85,6 +85,7 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 6. Mobile Testing:
 📱🧪🔍
 
+[![Run Tests](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml/badge.svg?branch=master&event=release)](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-80%25-green)](#)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](#)
 [![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-blue)](#)
