@@ -21,6 +21,7 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 - ⚡ Fun fact: I enjoy biking, hiking, swimming, and engaging in DIY projects.
 
 ## Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arkadiyvoronov/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/arkadiyvoronov)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/voronov_ao)
@@ -29,6 +30,8 @@ Hello there! I'm Arkadiy, a Full Stack QA Specialist. I have experience working 
 [![Email](https://img.shields.io/badge/Email-vor.arkadiy%40gmail.com-red)](mailto:vor.arkadiy@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-Profile-red?logo=reddit)](https://www.reddit.com/user/Affectionate_Gur_771)
 [![GitLab](https://img.shields.io/badge/GitLab-Follow-orange?logo=gitlab)](https://gitlab.com/vor.arkadiy)
+[![Telegram](https://img.shields.io/badge/Telegram-%40arkadiyvoronov-blue?logo=telegram)](https://t.me/arkadiyvoronov)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 
 <br />
 
