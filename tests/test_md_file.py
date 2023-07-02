@@ -2,24 +2,32 @@ import os
 import pytest
 
 def read_md_file(file_path):
-    # Implement the logic to read the content of an MD file
-    pass
+    with open(file_path, "r") as file:
+        content = file.read()
+    return content
 
 def check_file_extension(file_name):
-    # Implement the logic to check the file extension
-    pass
+    return file_name.endswith(".md")
 
 def parse_md_file(content):
-    # Implement the logic to parse the content of an MD file
-    pass
+    lines = content.split("\n")
+    title = lines[0].strip("# ")
+    text = "\n".join(lines[1:]).strip()
+    return {"title": title, "text": text}
 
 def generate_html_from_md(content):
-    # Implement the logic to generate HTML from an MD file
-    pass
+    lines = content.split("\n")
+    html_lines = []
+    for line in lines:
+        if line.startswith("# "):
+            html_lines.append(f"<h1>{line.strip('# ')}</h1>")
+        else:
+            html_lines.append(f"<p>{line}</p>")
+    return "\n".join(html_lines)
 
 def write_html_file(html, file_name):
-    # Implement the logic to write HTML content to a file
-    pass
+    with open(file_name, "w") as file:
+        file.write(html)
 
 def test_read_md_file():
     content = read_md_file("example.md")
@@ -42,9 +50,9 @@ def test_generate_html_from_md():
     assert "<h1>Heading</h1>" in html
     assert "<p>Text</p>" in html
 
-def test_write_html_file():
+def test_write_html_file(tmpdir):
     html = "<h1>Heading</h1>"
-    file_name = "output.html"
+    file_name = os.path.join(tmpdir, "output.html")
     write_html_file(html, file_name)
     
     assert os.path.exists(file_name)
