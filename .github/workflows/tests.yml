@@ -3,7 +3,8 @@ name: Run Tests
 on:
   push:
     branches:
-      - main  # Change this to the branch you want to trigger the tests on
+      - master
+  workflow_dispatch:  # Enable manual triggering of the workflow
 
 jobs:
   test:
@@ -23,4 +24,3 @@ jobs:
 
       - name: Run tests
         run: pytest
-      
