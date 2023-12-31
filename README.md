@@ -15,6 +15,10 @@
  | |__| | / ____ \  |  __/ | | | | | |_) |  __/ (_| | (_| |  __/ (_| |
   \___\_\/_/    \_\  \___|_| |_| |_|_.__/ \___|\__,_|\__,_|\___|\__,_|                                         
 ```
+
+
+![-Wx9Dc1kzKv](https://github.com/ArkadiyVoronov/ArkadiyVoronov/assets/31352672/3ad19cb5-2c03-4588-887c-1634eefe68b8)
+
                                                         
 
 - 📚 In 2024, I aim to enhance my expertise in testing microcontrollers and delve into the realm of self-hosting
