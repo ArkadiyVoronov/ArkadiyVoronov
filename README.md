@@ -17,7 +17,7 @@
 ```
 
 
-![-Wx9Dc1kzKv](https://github.com/ArkadiyVoronov/ArkadiyVoronov/assets/31352672/3ad19cb5-2c03-4588-887c-1634eefe68b8)
+<img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/assets/31352672/3ad19cb5-2c03-4588-887c-1634eefe68b8" width="1020">
 
                                                         
 
