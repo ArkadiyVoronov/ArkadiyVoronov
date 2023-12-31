@@ -17,7 +17,7 @@
 ```
                                                         
 
-- 📚 In 2023, I aim to enhance my expertise in testing microcontrollers and delve into the realm of self-hosting
+- 📚 In 2024, I aim to enhance my expertise in testing microcontrollers and delve into the realm of self-hosting
 - 🌐 Collaborating with fellow engineers, I aspire to pioneer the development of user-friendly and intelligent greenhouse systems
 - 👥 As a mentor, my commitment extends to guiding individuals in the testing community, frontend development, and mobile development
 - 🚴‍♂️🏞 Beyond my professional pursuits, I find joy in biking, hiking, swimming, and immersing myself in creative DIY projects
