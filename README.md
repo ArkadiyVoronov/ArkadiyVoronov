@@ -17,12 +17,11 @@
 ```
                                                         
 
-- 🌱 Currently, I am involved in the translation of a [book](https://uraltester.ru/2020/10/16/%d1%81%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d0%bc-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%b5%d1%80%d0%b5%d0%b2%d0%be%d0%b4/) for the testing community.
-- 👯 I am seeking to collaborate with other engineers to construct convenient and intelligent greenhouses.
-- 🫶 I serve as a mentor for testers, frontend developers, and mobile developers.
-- 🥅 My goals for 2023 are to learn techniques for testing microcontrollers and explore self-hosting.
-- 🏕️ I contribute to the UTC and CSCM communities: [UTC](https://uraltester.ru/), [CSCM](https://github.com/CyberSecurityClubMoscow)
-- ⚡ Fun fact: I enjoy biking, hiking, swimming, and engaging in DIY projects.
+- 📚 In 2023, I aim to enhance my expertise in testing microcontrollers and delve into the realm of self-hosting
+- 🌐 Collaborating with fellow engineers, I aspire to pioneer the development of user-friendly and intelligent greenhouse systems
+- 👥 As a mentor, my commitment extends to guiding individuals in the testing community, frontend development, and mobile development
+- 🚴‍♂️🏞 Beyond my professional pursuits, I find joy in biking, hiking, swimming, and immersing myself in creative DIY projects
+- 💻 Actively contributing to the UTC and CSCM communities remains a cornerstone of my involvement and impact [UTC](https://uraltester.ru/), [CSCM](https://github.com/CyberSecurityClubMoscow)
 
 ## Connect with Me
 
