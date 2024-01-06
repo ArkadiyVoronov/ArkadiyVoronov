@@ -5,6 +5,10 @@
 > 
 > I have experience working on various projects and I'm constantly striving to improve my skills.
 
+<details>
+
+   <summary>ASCII art from AI</summary>
+
 [![Website](https://img.shields.io/website?label=prapar.pythonanywhere.com&style=plastic&url=https%3A%2F%2Fcodestackr.com)](https://prapar.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 ```
@@ -16,6 +20,8 @@
   \___\_\/_/    \_\  \___|_| |_| |_|_.__/ \___|\__,_|\__,_|\___|\__,_|                                         
 ```
 
+
+</details>
 
 <img src="https://github.com/ArkadiyVoronov/ArkadiyVoronov/assets/31352672/3ad19cb5-2c03-4588-887c-1634eefe68b8" width=100%>
 
@@ -40,8 +46,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40arkadiyvoronov-blue?logo=telegram)](https://t.me/arkadiyvoronov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArkadiyVoronov?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArkadiyVoronov&screen_name=ArkadiyVoronov)
 
+<details>
 
-## 🔧 Technologies & Tools
+<summary>## 🔧 Technologies & Tools</summary>
   
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)
@@ -68,6 +75,8 @@
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-OS-lightgrey?logo=apple)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Tool-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Tool-blue?logo=kubernetes)
+
+</details>
 
 [![Run Tests](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/ArkadiyVoronov/ArkadiyVoronov/actions/workflows/tests.yml)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-80%25-green)](#)
