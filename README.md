@@ -1,9 +1,9 @@
 ## About Me
 > Hello there!
 > 
-> I'm Arkadiy, a Full Stack QA Specialist.
+> I'm Arkadiy, a Full Stack QA Specialist with a passion for technology and continuous learning.
 > 
-> I have experience working on various projects and I'm constantly striving to improve my skills.
+> With a solid background in various projects, I'm dedicated to enhancing my skills and contributing to the tech community.
 
 <details>
 
@@ -34,6 +34,8 @@
 - 💻 Actively contributing to the UTC and CSCM communities remains a cornerstone of my involvement and impact [UTC](https://uraltester.ru/), [CSCM](https://github.com/CyberSecurityClubMoscow)
 
 ## Connect with Me
+
+For the best way to contact me, please send me an [email](mailto:vor.arkadiy@gmail.com) or connect with me on [Telegram](https://t.me/arkadiyvoronov)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arkadiyvoronov/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/arkadiyvoronov)
