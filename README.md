@@ -1,58 +1,71 @@
-## 🌟 Arkadiy Voronov  
-**Full Stack QA Specialist | Tech Enthusiast | Community Contributor**
+## 🌟  Hi, I’m Arkadiy Voronov
+**QA Engineer | Infrastructure & Installation Testing | Embedded & Self‑Hosted Enthusiast**
 
 > Hello there! 👋  
-> I’m Arkadiy, a Full Stack QA Specialist passionate about technology, continuous learning, and contributing to the tech community.  
+> I’m Arkadiy,
+> I help teams ship more reliable systems by testing not only features,
+> but also installations, configurations, and the infrastructure they run on.  
 
 ---
 
-### 🚀 About Me  
-- 💻 **Professional Focus:** Testing microcontrollers, automation, and developing intelligent systems.  
-- 🌱 **Learning in 2025:** Exploring self-hosting solutions, IoT devices, and machine learning.  
-- 🛠️ **Projects:** Contributing to user-friendly greenhouse systems and optimizing testing processes.  
-- 👥 **Mentorship:** Guiding individuals in QA, frontend development, and mobile development.  
-- 🌐 **Community Involvement:** Active member of [UTC](https://uraltester.ru/) and [CSCM](https://github.com/CyberSecurityClubMoscow).  
-
+### 🚀 About Me
+- **Role:** Senior QA Engineer, with experience in testing embedded systems, web services and infrastructure.
+- **Focus areas:**
+  - Installation & configuration testing (installers, upgrade paths, migrations, config validation);
+  - Infrastructure & environments testing (CI/CD, test benches, self‑hosted services, integrations);
+  - Automation around microcontrollers and intelligent test setups.
+- **Mindset:**
+  - I like to think in terms of systems: from hardware and OS, through services and APIs, to user‑visible behavior and observability.
 ---
+### 🧪 QA Skills & Expertise
+> Here is what I actually work with day to day
+- **Testing types:**
+    - Functional, integration, regression, smoke & sanity;
+    - Installation and configuration testing (fresh install, upgrades, rollbacks, config changes);
+    - Infrastructure and environment testing (deployments, services health, monitoring hooks).
+- **Automation & scripting:**
+    - Python – test utilities, data generators, API helpers, scripting for test environments;
+    - Bash – automation on Linux servers, CI jobs, log collection, environment bootstrap;
+    - Go – small CLI tools, experimental automation services, and utilities for working with APIs and infrastructure.
+- **APIs & tools:**
+    - REST API testing with Postman and Python;
+    - Basic performance checks and health endpoints validation.
+ - **Test design & process:**
+    - Test cases and checklists, exploratory testing;
+    - Bug reporting with clear steps, logs, and context;
+    - Collaboration in Agile teams (scrum‑style iterations, continuous delivery).    
+---
+### 🏗 Environments, Infrastructure & Self‑Hosted
+> This is what I enjoy the most: making environments reproducible and predictable
+- **Operating systems:** Linux, Windows for specific tools and scenarios;
+- **Tools:** GitLab, Ansible, Docker, VS Code, PyCharm, Postman, DBeaver;
+- **Self‑hosted:** experimenting with self‑hosted services for monitoring, documentation, and test benches; automating setup with scripts and containers.
+---
+### 🔌 Hardware, Embedded & Devices 
+> I work not only with software, but also with hardware platforms, emulators, and physical test stands
+- NVIDIA Jetson TX2, NVIDIA Xavier AGX and similar embedded AI platforms;
+- QEMU‑based setups and x86 and other architectures for experimenting with different system layouts and environments;
+- Microcontroller‑based projects and smart systems (e.g., greenhouses and home automation); 
+- Disassembling and assembling phones and mobile devices, plus experimenting with their firmware and hardware behavior;
+- Designing and 3D‑printing custom cases and parts to support test rigs and DIY devices;
+- Building and maintaining test setups for hardware‑software integration and long‑running tests;
+- Exploring and testing different kinds of transport in everyday life (bicycles, scooters, etc.) with an engineer’s eye on safety, reliability, and usability.
+---
+### 🌍 Community & Mentoring
 
-### 🌍 My Interests  
+- Active member of Ural Testers Club [UTC](https://uraltester.ru/) and Cyber Security Club Moscow [CSCM](https://github.com/CyberSecurityClubMoscow) — I join meetups, discussions, and knowledge‑sharing sessions;
+- I mentor people in QA, frontend, and mobile development, helping them build their first projects and portfolios.
+---
+### 🎮 Hobbies & Personal Side  
 Beyond work, I enjoy:  
-- 🚴‍♂️ Biking, hiking, swimming, and creative DIY projects.  
-- 🧠 Exploring new technologies and sharing knowledge with the community.  
-
----
-
-### 🔧 Technologies & Tools  
-Here’s what I work with:  
-
-#### Programming Languages:  
-![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)  
-![Bash](https://img.shields.io/badge/Bash-Language-black?logo=gnu-bash)  
-
-#### Operating Systems:  
-![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)  
-![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)  
-
-#### Development Tools:  
-![PyCharm](https://img.shields.io/badge/PyCharm-IDE-blue?logo=pycharm)  
-![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visual-studio-code)  
-![Docker](https://img.shields.io/badge/Docker-Tool-blue?logo=docker)  
-![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman)  
-
-#### Databases:  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)  
-
-#### Hardware:  
-![Jetson TX2](https://img.shields.io/badge/Jetson%20TX2-Hardware-informational?logo=nvidia)  
-![Xavier AGX](https://img.shields.io/badge/Xavier%20AGX-Hardware-informational?logo=nvidia)  
-
+- 🚴‍♂️ Biking, hiking, swimming, and hands‑on DIY projects with tools and electronics.  
+- 🧠 Retrogaming and older hardware/software — I like exploring how games and systems used to be built and what we can still learn from them.  
 ---
 
 ### 📊 GitHub Stats  
 Add some cool GitHub stats widgets to showcase your activity:  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArkadiyVoronov&show_icons=true&theme=radical)](https://github.com/ArkadiyVoronov)  
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkadiyVoronov&theme=radical)](https://github.com/ArkadiyVoronov)  
 
 ---
