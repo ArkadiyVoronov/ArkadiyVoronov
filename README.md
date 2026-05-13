@@ -1,9 +1,11 @@
 ## 🌟 Hi, I’m Arkadiy Voronov
-**Senior QA & DevOps‑oriented Engineer | Infrastructure & Installation Testing | Embedded & Self‑Hosted Enthusiast**
 
-> Hello there! 👋  
-> I help teams ship reliable systems by testing not only features,
-> but also installations, configurations, and the infrastructure they run on.
+**Senior QA & DevOps‑oriented Engineer**  
+Testing not only features, but **installations, configurations, and the infrastructure** they run on.
+
+- QA for embedded systems, self‑hosted services, CI/CD.
+- Strong focus on installation/upgrade paths, config validation, and environment reliability.
+- Comfortable from microcontrollers and NVIDIA Jetson to Linux servers and pipelines.
 
 ---
 
