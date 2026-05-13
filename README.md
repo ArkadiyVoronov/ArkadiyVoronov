@@ -46,27 +46,23 @@ Testing not only features, but **installations, configurations, and the infrastr
   - Basic infrastructure as code concepts with Ansible and containerized environments
 
 ---
-### 🏗 Environments, Infrastructure & Self‑Hosted
-> This is what I enjoy the most: making environments reproducible and predictable
 
-- **Operating systems:** Linux as a main environment, Windows for specific tools and scenarios  
-- **Tools:** GitLab, Ansible, Docker, VS Code, PyCharm, Postman, DBeaver  
-- **Self‑hosted:** experimenting with self‑hosted services for monitoring, documentation, and test benches; automating setup with scripts and containers  
-- **CI/CD & environments:** working with pipeline stages, test environments, and deployment flows to keep them stable and observable
+### 🛠 Tech Stack
 
----
-### 🔌 Hardware, Embedded & Devices
-> I work not only with software, but also with hardware platforms, emulators, and physical test stands
+**Languages & scripting:**  
+Python · Bash · Go
 
-- NVIDIA Jetson TX2, NVIDIA Xavier AGX and similar embedded AI platforms  
-- QEMU‑based setups, x86 and other architectures for experimenting with different system layouts and environments  
-- Microcontroller‑based projects and smart systems (e.g., greenhouses and home automation)  
-- Disassembling and assembling phones and mobile devices, experimenting with firmware and hardware behavior  
-- Designing and 3D‑printing custom cases and parts for test rigs and DIY devices  
-- Building and maintaining test setups for hardware‑software integration and long‑running tests  
-- Exploring and testing different kinds of transport in everyday life (bicycles, scooters, etc.) with an engineer’s eye on safety, reliability, and usability
+**Testing & QA:**  
+Postman · REST API testing · Installation & upgrade testing · Infrastructure & environment testing
+
+**DevOps & Infrastructure:**  
+GitLab CI · Docker · Ansible · Linux (server & embedded) · QEMU · NVIDIA Jetson/Xavier
+
+**Tools:**  
+VS Code · PyCharm · DBeaver · self‑hosted monitoring & docs
 
 ---
+
 ### 🌍 Community & Mentoring
 
 - Active member of Ural Testers Club [UTC](https://uraltester.ru/) and Cyber Security Club Moscow [CSCM](https://github.com/CyberSecurityClubMoscow) — I join meetups, discussions, and knowledge‑sharing sessions  
